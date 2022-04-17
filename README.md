@@ -16,9 +16,11 @@ Connect with me:
 asherfraz
 
 Languages and Tools:
-<image>https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FC%252B%252B&psig=AOvVaw10AMOFygSIKdpIDbsFmyZl&ust=1650251955658000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCLid6eCRmvcCFQAAAAAdAAAAABAD
+![image](https://user-images.githubusercontent.com/37267032/163698860-8b2c814d-987b-4d96-8ea0-0243fba276e8.png)
 cplusplus
 
+  
+  
 <!---
 asherfraz/asherfraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
