@@ -7,7 +7,7 @@ coding greek
 - 👀 I’m interested in ... Software Development && Cyber Security
 - 🌱 I’m currently learning ... Flutter Application Development 
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... <mail:to="asherfraz@gmail.com">
+- 📫 How to reach me ... <mail:to=" asherfraz@gmail.com ">
 
 
 
