@@ -9,6 +9,7 @@ Hi 👋, I'm Asher Fraz
 A passionate Developer.
 coding greek
 
+![image](https://user-images.githubusercontent.com/37267032/163698452-706a75f6-aff3-4580-a2bb-4fe7ace667b1.png)
 
 
 
@@ -27,12 +28,6 @@ ishukumarpathak ishkumarpatha2 ishu kumar pathak ishu pathak _ishu_pathak_ ishu 
 
 Languages and Tools:
 c cplusplus csharp css3 gcp html5 javascript kotlin nodejs photoshop unity
-
-ishukumarpathak
-
- ishukumarpathak
-
-ishukumarpathak
 
 
 <!---
