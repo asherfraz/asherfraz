@@ -1,7 +1,6 @@
-
-
-   **- 👋 Hi, I’m @asherfraz**
 <p align="center">
+ <b>- 👋 Hi, I’m @asherfraz</b>
+
 - 👀 I’m interested in ... **Software Development && Cyber Security**
 - 🌱 I’m currently learning ... **Flutter Application Development **
 - 💞️ I’m looking to collaborate on ... Intership
@@ -28,8 +27,7 @@ Connect with me:
 **-------------------------------------------------------------------------------**
   
 Languages and Tools:
-<p align="center">
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </p>
+<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </p>
 
 
   
