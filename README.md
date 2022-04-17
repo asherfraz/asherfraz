@@ -6,7 +6,7 @@
 
 <p align="center"><img align="center" alt="Coding" width="400" src="https://github.com/asherfraz/asherfraz/blob/main/media/coding-gif.gif"></p>
 
-- 👀 I’m interested in ... **Software Development && Cyber Security**
+- 👀 I’m interested in ... **Software Development & Cyber Security**
 - 🌱 I’m currently learning ... **Flutter Application Development **
 - 💞️ I’m looking to collaborate on ... Intership
 - 📫 How to reach me ... <mail:to=" asherfraz@gmail.com ">
