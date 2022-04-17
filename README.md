@@ -1,15 +1,13 @@
-- 👋 Hi, I’m @asherfraz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
 Hi 👋, I'm Asher Fraz
 A passionate Developer.
 coding greek
 
-https://camo.githubusercontent.com/101c98f67298425e9875ecfac1c25efccaf3c966db04609cc4f4e92d6bd12c32/68747470733a2f2f632e74656e6f722e636f6d2f4e4f594633663832625f6741414141432f70726f6772616d6d65722e676966
+
+- 👋 Hi, I’m @asherfraz
+- 👀 I’m interested in ... Software Development && Cyber Security
+- 🌱 I’m currently learning ... Flutter Application Development 
+- 💞️ I’m looking to collaborate on ... 
+- 📫 How to reach me ... <mail:to="asherfraz@gmail.com">
 
 
 
