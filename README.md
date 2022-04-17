@@ -16,14 +16,7 @@ Connect with me:
 asherfraz
 
 Languages and Tools:
-
-
-
-
-
-
-
-![image](https://user-images.githubusercontent.com/37267032/163698876-67b6d55f-9b7c-42fb-8325-2b913bf29336.png)
+https://www.cprogramming.com/
 
 
   
