@@ -5,15 +5,14 @@
 - 📫 How to reach me ...
 
 
-Hi 👋, I'm Ishu Pathak
+Hi 👋, I'm Asher Fraz
 A passionate Developer.
 coding greek
 
 
 
-🔭 I’m currently working on Python Cv projects.
 
-🌱 I’m currently learning React Native.
+🌱 I’m currently learning Flutter App Development.
 
 👨‍💻 Here is my portfolio https://ishukumarpathak.github.io/portfolio/
 
