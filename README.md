@@ -29,7 +29,7 @@
 <a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="asherfraz" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/asherfraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asherfraz" height="30" width="40" /></a>
 
-<p align="center"> **-------------------------------------------------------------------------------**</p>
+-------------------------------------------------------------------------------
   
 <bu>Languages and Tools</b>:
 <p align="center"> 
@@ -41,6 +41,10 @@
  <a href="https://realpython.com" target="_blank" rel="noreferrer"> <img src="https://github.com/asherfraz/asherfraz/blob/main/logos/python.png" alt="Python" width="40" height="40"/> </a>
  </p>
 
+
+*## Authors
+
+- [@katherinepeterson](https://www.github.com/octokatherine)
 
 <!---
 asherfraz/asherfraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
