@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=root@kali:~/++whoami;S+T+U+D+E+N+T;P+r+o+g+r+a+m+m+e+r;)](https://git.io/typing-svg)
 
 <p align="center">
- <img align="center" alt="Coding" width="400" src="https://github.com/asherfraz/asherfraz/blob/main/media/eat_sleep_code_repeat.mp4">
+ <img align="center" alt="Coding" width="400" src="https://github.com/asherfraz/asherfraz/blob/main/media/eat_sleep_code_repeat2.gif">
  <img align="center" alt="Coding" width="400" src="https://github.com/asherfraz/asherfraz/blob/main/media/coding-gif.gif">
 </p>
 
@@ -52,7 +52,6 @@
 
 ## Support
 For support, [@asherfraz](https://www.github.com/asherfraz) email me at asherfraz@gmail.com
-
 <!---
 asherfraz/asherfraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
