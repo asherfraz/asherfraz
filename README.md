@@ -42,7 +42,12 @@
  </p>
 
 
-**## Authors
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
+## Authors
 
 - [@asherfraz](https://www.github.com/asherfraz)
 
