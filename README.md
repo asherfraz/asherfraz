@@ -41,7 +41,10 @@
  <a href="https://realpython.com" target="_blank" rel="noreferrer"> <img src="https://github.com/asherfraz/asherfraz/blob/main/logos/python.png" alt="Python" width="40" height="40"/> </a>
  </p>
 
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=asherfraz&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=asherfraz&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=asherfraz&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
