@@ -42,9 +42,9 @@
  </p>
 
 
-*## Authors
+**## Authors
 
-- [@katherinepeterson](https://www.github.com/octokatherine)
+- [@asherfraz](https://www.github.com/asherfraz)
 
 <!---
 asherfraz/asherfraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
