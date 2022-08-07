@@ -31,8 +31,14 @@ Connect with me:
 
 **-------------------------------------------------------------------------------**
   
-Languages and Tools:
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> | <a href="https://realpython.com" target="_blank" rel="noreferrer"> <img src="https://github.com/asherfraz/asherfraz/blob/main/logos/python.png" alt="Python" width="40" height="40"/> </a>
+<b>Languages and Tools</b>:
+<p align="center"> 
+ <!-- C Language -->
+ <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+ <!-- Cpp Language -->
+ <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> 
+ <!-- Python Language -->
+ <a href="https://realpython.com" target="_blank" rel="noreferrer"> <img src="https://github.com/asherfraz/asherfraz/blob/main/logos/python.png" alt="Python" width="40" height="40"/> </a>
  </p>
 
 
