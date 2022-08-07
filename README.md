@@ -47,9 +47,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
-## Authors
-
-- [@asherfraz](https://www.github.com/asherfraz)
+## Support
+For support, [@asherfraz](https://www.github.com/asherfraz) email me at asherfraz@gmail.com
+For support, [@asherfraz} email me at asherfraz@gmail.com<br><br>
 
 <!---
 asherfraz/asherfraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
