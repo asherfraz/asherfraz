@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=root@kali:~/++whoami;S+T+U+D+E+N+T;P+r+o+g+r+a+m+m+e+r;)](https://git.io/typing-svg)
 
 <p align="center">
- <img align="center" alt="Coding" width="350" src="https://github.com/asherfraz/asherfraz/blob/main/media/eat_sleep_code_repeat2.gif">
+ <img align="center" alt="Coding" width="400" height="300" src="https://github.com/asherfraz/asherfraz/blob/main/media/eat_sleep_code_repeat2.gif">
  <img align="center" alt="Coding" width="400" src="https://github.com/asherfraz/asherfraz/blob/main/media/coding-gif.gif">
 </p>
 
@@ -22,7 +22,7 @@
 
 -------------------------------------------------------------------------------
 
-<b><u>Connect with me</u></b>:
+## Connect with me:
 <p align="center">
 <a href="https://twitter.com/asherfraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@asherfraz" height="30" width="40" /></a>
 <a href="https://dev.to/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="asherfraz" height="30" width="40" /></a>
