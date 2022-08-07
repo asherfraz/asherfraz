@@ -32,8 +32,7 @@ Connect with me:
 **-------------------------------------------------------------------------------**
   
 Languages and Tools:
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | <p align="center"><img src="https://github.com/asherfraz/asherfraz/blob/master/logos/python.png?raw=true" height="20%" width="20%"></p> | <p align="center"><img src="https://github.com/asherfraz/asherfraz/blob/master/logos/html.png?raw=true" height="20%" width="20%"></p>      | <p align="center"><img src="https://github.com/asherfraz/asherfraz/blob/master/logos/sql.png?raw=true" height="20%" width="20%"></p>       | <p align="center"><img src="https://github.com/asherfraz/asherfraz/blob/master/logos/git.png?raw=true" height="20%" width="20%"></p>              |</p>
-
+<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | <p align="center"><img src="https://github.com/asherfraz/asherfraz/blob/master/logos/python.png?raw=true" height="20%" width="20%"></p>
 
   
 
