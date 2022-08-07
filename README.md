@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=root@kali:~/++whoami;S+T+U+D+E+N+T;P+r+o+g+r+a+m+m+e+r;)](https://git.io/typing-svg)
 
 <p align="center">
- <img align="center" alt="Coding" width="400" src="https://i.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.mp4">
+ <img align="center" alt="Coding" width="400" src="https://github.com/asherfraz/asherfraz/blob/main/media/eat_sleep_code_repeat.mp4">
  <img align="center" alt="Coding" width="400" src="https://github.com/asherfraz/asherfraz/blob/main/media/coding-gif.gif">
 </p>
 
@@ -46,7 +46,7 @@
 
 # 📊 GitHub Stats:
   ![](https://github-readme-stats.vercel.app/api?username=asherfraz&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=asherfraz&theme=highcontrast&hide_border=false)<br/>
+                       ![](https://github-readme-streak-stats.herokuapp.com/?user=asherfraz&theme=highcontrast&hide_border=false)<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
