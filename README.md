@@ -42,13 +42,12 @@
  </p>
 
 # 📊 GitHub Stats:
+<p align="center"> 
 ![](https://github-readme-stats.vercel.app/api?username=asherfraz&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=asherfraz&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=asherfraz&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=asherfraz&theme=highcontrast&hide_border=false)<br/></p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 
 ## Support
 For support, [@asherfraz](https://www.github.com/asherfraz) email me at asherfraz@gmail.com
