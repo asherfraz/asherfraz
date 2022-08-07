@@ -19,7 +19,7 @@
 
 **-------------------------------------------------------------------------------**
 
-<u><b>Connect with me</u></b>:
+<b><u>Connect with me</u></b>:
 <p align="center">
 <a href="https://twitter.com/asherfraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@asherfraz" height="30" width="40" /></a>
 <a href="https://dev.to/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="asherfraz" height="30" width="40" /></a>
@@ -29,7 +29,7 @@
 <a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="asherfraz" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/asherfraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asherfraz" height="30" width="40" /></a>
 
-**-------------------------------------------------------------------------------**
+<p align="center"> **-------------------------------------------------------------------------------**</p>
   
 <bu>Languages and Tools</b>:
 <p align="center"> 
