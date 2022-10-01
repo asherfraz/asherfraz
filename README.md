@@ -9,7 +9,6 @@
 </p>
 
 - 👀 I’m interested in ... **Software Development & Cyber Security**
-- 🌱 I’m currently learning ... ** Python + Kivy **
 - 💞️ I’m looking to collaborate on ... Internship
 - 📫 How to reach me ... <mail:to=" asherfraz@gmail.com ">
 
