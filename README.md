@@ -10,11 +10,11 @@
 
 - 👀 I’m interested in ... **Software Development & Cyber Security**
 - 💞️ I’m looking to collaborate on ... Internship
-- 📫 How to reach me ... <mail:to=" asherfraz@gmail.com ">
+- 📫 How to reach me ... <a href="mailto:asherfraz@gmail.com ">Send Email</a>
 
 -------------------------------------------------------------------------------
 
-👨‍💻 Here is my portfolio <a href="https://asherfraz.github.io/"  target=_blank>Visit Asherfraz.github.io</a>
+👨‍💻 Here is my portfolio <a href="https://asherfraz.github.io/"  target="_blank" >Visit Asherfraz.github.io</a>
 
 📄 Know about my resume Upating Soon! . . .
 
