@@ -14,7 +14,7 @@
 
 -------------------------------------------------------------------------------
 
-👨‍💻 Here is my portfolio https://asherfraz.github.io/
+👨‍💻 Here is my portfolio <link href="https://asherfraz.github.io/">asherfraz.github.io/</link>
 
 📄 Know about my resume Upating Soon! . . .
 
