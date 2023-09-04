@@ -1,6 +1,5 @@
-<!--
-![](https://raw.githubusercontent.com/asherfraz/asherfraz/master/media/header.png)
--->
+![](https://raw.githubusercontent.com/asherfraz/asherfraz/master/media/Header.png)
+
  <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><b> - Hi, I’m @asherfraz</b> </h1>
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=root@kali:~/++whoami;S+T+U+D+E+N+T;P+r+o+g+r+a+m+m+e+r;)](https://git.io/typing-svg) -->
