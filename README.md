@@ -11,10 +11,10 @@
  <img align="center" alt="Coding" width="400" src="https://github.com/asherfraz/asherfraz/blob/main/media/github_media.gif">
 </p>
 
-- 👀 I’m interested in ... **Mobile Application Development**
-- 💞️ I’m looking to collaborate on ... Internship
-- 📫 Reach me @ <a href="mailto:asherfraz@gmail.com ">Email</a>
-- 👨‍💻 Here is my portfolio <a href="https://asherfraz.github.io/"  target="_blank" >Visit Asherfraz.github.io</a>
+- 👀 I’m interested in ... **Android Application Development**
+- 💞️ I’m looking to collaborate on an internship
+- 📫 Reach me at <a href="mailto:asherfraz@gmail.com ">Email</a>
+- 👨‍💻 Here is my portfolio <a href="https://asherfraz.github.io/"  target="_blank" >Visit</a>
 
 
 ## Connect with me:
