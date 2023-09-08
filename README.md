@@ -5,7 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=root@kali:~/++whoami;S+T+U+D+E+N+T;P+r+o+g+r+a+m+m+e+r;)](https://git.io/typing-svg) -->
 
 <p align="center">
- <img align="center" alt="Coding" width="300" height="305" src="https://github.com/asherfraz/asherfraz/blob/main/media/eat_sleep_code_repeat2.gif"><img align="center" alt="Coding" width="400" src="https://github.com/asherfraz/asherfraz/blob/main/media/coding-gif.gif">
+ <!-- <img align="center" alt="Coding" width="300" height="305" src="https://github.com/asherfraz/asherfraz/blob/main/media/eat_sleep_code_repeat2.gif"> -->
+ <img align="center" alt="Coding" width="400" src="https://github.com/asherfraz/asherfraz/blob/main/media/coding-gif.gif">
 <br/>
  <img align="center" alt="Coding" width="400" src="https://github.com/asherfraz/asherfraz/blob/main/media/github_media.gif">
 </p>
@@ -13,8 +14,9 @@
 - 👀 I’m interested in ... **Android Application Development**
 - 💞️ I’m looking to collaborate on an internship
 - 📫 Reach me at <a href="mailto:asherfraz@gmail.com ">Email</a>
+<!-- 
 - 👨‍💻 Here is my portfolio <a href="https://asherfraz.github.io/"  target="_blank" >Visit</a>
-
+-->
 
 ## Connect with me:
 <p align="center">
