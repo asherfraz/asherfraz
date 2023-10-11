@@ -11,7 +11,8 @@
  <img align="center" alt="Coding" width="400" src="https://github.com/asherfraz/asherfraz/blob/main/media/github_media.gif">
 </p>
 
-- 👀 I’m interested in ... **Android Application Development**
+- 👀 Focusing on FYP
+<!-- I’m interested in ... **Android Application Development** -->
 - 💞️ I’m looking to collaborate on an internship
 - 📫 Reach me at <a href="mailto:asherfraz@gmail.com ">Email</a>
 <!-- 
