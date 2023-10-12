@@ -11,13 +11,14 @@
  <img align="center" alt="Coding" width="400" src="https://github.com/asherfraz/asherfraz/blob/main/media/github_media.gif">
 </p>
 
-- 👀 Focusing on FYP <!-- I’m interested in ... **Android Application Development** -->
-- 💞️ I’m looking to collaborate on an internship
-- 📫 Reach me at <a href="mailto:asherfraz@gmail.com ">Email</a>
+<!-- I’m interested in ... **Android Application Development** -->
+🔭 I’m currently working on FYP<br>👯 I’m looking to collaborate on an internship<br>🌱 I’m currently learning REACTJS & Python<br>
+📫 Reach me at <a href="mailto:asherfraz@gmail.com ">Email</a>
 <!-- 
 - 👨‍💻 Here is my portfolio <a href="https://asherfraz.github.io/"  target="_blank" >Visit</a>
 -->
-
+[![](https://visitcount.itsvg.in/api?id=asherfraz&icon=3&color=0)](https://visitcount.itsvg.in)
+---
 ## Connect with me:
 <p align="center">
 <a href="https://twitter.com/asherfraz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@asherfraz" height="30" width="40" /></a>
@@ -41,6 +42,7 @@
 
 # 📊 GitHub Stats:
   ![](https://github-readme-stats.vercel.app/api?username=asherfraz&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=asherfraz&theme=highcontrast&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asherfraz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
