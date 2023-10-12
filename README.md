@@ -12,12 +12,12 @@
 </p>
 
 <!-- I’m interested in ... **Android Application Development** -->
-🔭 I’m currently working on FYP<br>👯 I’m looking to collaborate on an internship<br>🌱 I’m currently learning REACTJS & Python<br>
+[![](https://visitcount.itsvg.in/api?id=asherfraz&icon=3&color=0)](https://visitcount.itsvg.in)</br>
+🔭 I’m currently working on FYP<br>👯 I’m looking to collaborate on an **internship**<br>🌱 I’m currently learning *JavaScript*(REACTJS) & *Python* <br>
 📫 Reach me at <a href="mailto:asherfraz@gmail.com ">Email</a>
 <!-- 
 - 👨‍💻 Here is my portfolio <a href="https://asherfraz.github.io/"  target="_blank" >Visit</a>
 -->
-[![](https://visitcount.itsvg.in/api?id=asherfraz&icon=3&color=0)](https://visitcount.itsvg.in)
 ---
 ## Connect with me:
 <p align="center">
