@@ -13,7 +13,7 @@
 
 <!-- I’m interested in ... **Android Application Development** -->
 [![](https://visitcount.itsvg.in/api?id=asherfraz&icon=3&color=0)](https://visitcount.itsvg.in)</br>
-🔭 I’m currently working on FYP<br>👯 I’m looking to collaborate on an **internship**<br>🌱 I’m currently learning *JavaScript*(REACTJS) & *Python* <br>
+🌱 I’m currently learning Android development with Kotlin* <br><!--🔭 I’m currently learning new Skills<br>-->👯 I’m looking to collaborate on an **internship or JOB**<br>
 📫 Reach me at <a href="mailto:asherfraz@gmail.com ">Email</a>
 <!-- 
 - 👨‍💻 Here is my portfolio <a href="https://asherfraz.github.io/"  target="_blank" >Visit</a>
