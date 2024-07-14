@@ -19,15 +19,18 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 <!-- I’m interested in ... **Android Application Development** -->
 [![](https://visitcount.itsvg.in/api?id=asherfraz&icon=3&color=0)](https://visitcount.itsvg.in)</br>
-🌱 I’m currently learning **Android development with Kotlin** <br><!--🔭 I’m currently learning new Skills<br>-->👯 I’m looking to collaborate on an **internship or JOB**<br>
-📫 Reach me at <a href="mailto:asherfraz@gmail.com ">Email</a>
+🌱 I’m currently learning **Android development with Kotlin** <br><!--🔭 I’m currently learning new Skills<br>-->
+👯 I’m looking to collaborate on an **internship or JOB**<br>
+🤝 Find me: &nbsp; <a href="https://linktr.ee/asherfraz" target="_blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2022/12/Linktree-Emblem-500x281.png" alt="Linktr.ee @asherfraz" height="40" width="72" /></a> <br>
+📫 Connect with me: **asherfraz@gmail.com**
 <!-- 
 - 👨‍💻 Here is my portfolio <a href="https://asherfraz.github.io/"  target="_blank" >Visit</a>
 -->
+<!-- 
 ## Connect with me:
 <p align="center">
-<a href="https://linktr.ee/asherfraz" target="_blank"><img align="center" src="https://assets.production.linktr.ee/profiles/_next/static/logo-assets/favicon-96x96.png" alt="Linktr.ee @asherfraz" height="30" width="40" />Linktree
-<!-- <a href="https://twitter.com/asherfraz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@asherfraz" height="30" width="40" /></a>
+<a href="https://linktr.ee/asherfraz" target="_blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2022/12/Linktree-Emblem-500x281.png" alt="Linktr.ee @asherfraz" height="110" width="128" />
+<a href="https://twitter.com/asherfraz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@asherfraz" height="30" width="40" /></a>
 <a href="https://dev.to/asherfraz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="asherfraz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/asherfraz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@asherfraz" height="30" width="40" /></a>
 <a href="https://fb.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Asher Fraz" height="30" width="40" /></a>
@@ -40,17 +43,17 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 ## Languages and Tools:
 <p align="center"> 
  <!-- Cpp Language -->
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> 
+ <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
  <!-- Java Language -->
- <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+ <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
  <!-- Python Language -->
- <a href="https://realpython.com" target="_blank" rel="noreferrer"> <img src="https://github.com/asherfraz/asherfraz/blob/main/logos/python.png" alt="Python" width="40" height="40"/> </a> 
+ <a href="https://realpython.com" target="_blank" rel="noreferrer"> <img src="https://github.com/asherfraz/asherfraz/blob/main/logos/python.png" alt="Python" width="40" height="40"/></a>
 <!--   Git -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <!--   Android  -->
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
 <!--   Kotlin -->
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
 
  </p>
 
