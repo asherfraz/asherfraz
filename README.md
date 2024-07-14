@@ -19,8 +19,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 <!-- I’m interested in ... **Android Application Development** -->
 [![](https://visitcount.itsvg.in/api?id=asherfraz&icon=3&color=0)](https://visitcount.itsvg.in)</br>
-🌱 I’m currently learning **Android development with Jetpack Compose using Kotlin** <br>
-<!--🔭 I’m currently learning new Skills<br>-->
+🌱 I’m currently learning **Android development with Jetpack Compose using Kotlin** <br>  <!--🔭 I’m currently learning new Skills<br>-->
 👯 I’m looking to collaborate on an **internship leading to job**<br>
 🤝 Find me: &nbsp; <a href="https://linktr.ee/asherfraz" target="_blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2022/12/Linktree-Emblem-500x281.png" alt="Linktr.ee @asherfraz" height="40" width="72" /></a> <br>
 📫 Connect with me: **asherfraz@gmail.com**
