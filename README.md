@@ -6,9 +6,10 @@
 
 <p align="center">
  <!-- <img align="center" alt="Coding" width="300" height="305" src="https://github.com/asherfraz/asherfraz/blob/main/media/eat_sleep_code_repeat2.gif"> -->
- <img align="center" alt="Coding" width="400" src="https://github.com/asherfraz/asherfraz/blob/main/media/coding-gif.gif">
+<!--  <img align="center" alt="Coding" width="400" src="https://github.com/asherfraz/asherfraz/blob/main/media/coding-gif.gif"> -->
+ <img align="center" alt="Coding" width="400" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp">
 <br/>
- <img align="center" alt="Coding" width="400" src="https://github.com/asherfraz/asherfraz/blob/main/media/github_media.gif">
+<!--  <img align="center" alt="Coding" width="400" src="https://github.com/asherfraz/asherfraz/blob/main/media/github_media.gif"> -->
 </p>
 
 <!-- I’m interested in ... **Android Application Development** -->
