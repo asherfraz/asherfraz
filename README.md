@@ -5,7 +5,7 @@
   <br>
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm &nbsp; " 𝕬 𝖘 𝖍 𝖊 𝖗 &nbsp; 𝕱 𝖗 𝖆 𝖟 " </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&size=32&duration=3500&pause=1000&color=5CB3FF&center=true&vCenter=true&random=false&width=1024&height=110&lines=Android+Developer;Software+Engineer;Adopting+New+Tech;Student;Programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&size=32&duration=3500&pause=1000&color=5CB3FF&center=true&vCenter=true&random=false&width=1024&height=110&lines=Software+Engineer;Adopting+New+Tech;Student;Programmer)](https://git.io/typing-svg)
 <!-- <h3 align="center">Software Engineer | Passionate Android Developer | Adopting New Tech </h3> -->
  
 
@@ -17,10 +17,12 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <!--  <img align="center" alt="Coding" width="400" src="https://github.com/asherfraz/asherfraz/blob/main/media/github_media.gif"> -->
 </p>
 
-<!-- I’m interested in ... **Android Application Development** -->
 [![](https://visitcount.itsvg.in/api?id=asherfraz&icon=3&color=0)](https://visitcount.itsvg.in)</br>
-🌱 I’m currently learning **Android development with Jetpack Compose using Kotlin** <br>  <!--🔭 I’m currently learning new Skills<br>-->
-👯 I’m looking to collaborate on an **internship leading to job**<br>
+<!-- I’m interested in ... **Android Application Development** -->
+<!-- 🌱 I’m currently learning **Android development with Jetpack Compose using Kotlin** 
+<br>
+<!--🔭 I’m currently learning new Skills<br>-->
+<!-- 👯 I’m looking to collaborate on an **internship leading to job**<br> -->
 🤝 Find me: &nbsp; <a href="https://linktr.ee/asherfraz" target="_blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2022/12/Linktree-Emblem-500x281.png" alt="Linktr.ee @asherfraz" height="40" width="72" /></a> <br>
 📫 Connect with me: **asherfraz@gmail.com**
 <!-- 
