@@ -4,13 +4,13 @@
 </p>
 
 
-<div style="display:flex; width:100%">
-  <div style="padding-left:10px;
-  font-size:25px;
-  font-weight:bold;">
+<div style="display:flex">
+  
+  <div style="width:60%;font-size:25px;font-weight:bold;">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">,<br/>
   <span style="font-weight:bold;"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=25&duration=5000&pause=60000&color=36BCF7FF&&vCenter=true&lines=I'm  &nbsp;  𝕬 𝖘 𝖍 𝖊 𝖗 &nbsp; 𝕱 𝖗 𝖆 𝖟" alt="Typing SVG">
   </span>
+  <br/>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Kanit&size=25&duration=3500&pause=1000&color=36BCF7FF&center=true&vCenter=true&lines=Software+Engineer;Web+Developer;Quick+Learner" alt="Typing SVG">
   </a>
@@ -19,7 +19,7 @@
 <!-- <img align="left" src="https://profile-counter.glitch.me/asherfraz/count.svg?" width="150px" />
 <br/> -->
 
-<div align="left">
+<div align="left" style="display:inline">
   <a href="https://linkedin.com/in/asherfraz" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="25" alt="linkedin logo"  />
   </a>
@@ -34,11 +34,8 @@
   </a>
 </div>
 
-
-  </div>
-<img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" width="260px" alt="Coding gif"
-  style="border-radius:10px"
-  >
+</div>
+<img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" width="260px" alt="Coding gif" style="border-radius:10px;display:40%">
 
 </div>
 
