@@ -29,8 +29,8 @@
 
 </td>
 
-<td align="right"  width="30%" >
-  <img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" width="260px" alt="Coding gif">
+<td  width="30%" align="right" >
+  <img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" width="360px" alt="Coding gif">
 </td>
   </tr>
 </table>
