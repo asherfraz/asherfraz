@@ -4,7 +4,7 @@
 </p>
 
 
-<table >
+<table width="100%">
   <tr>
     <td width="70%" valign="center">
 
