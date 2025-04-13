@@ -3,7 +3,39 @@
   style="border-radius:5px" />
 </p>
 
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
+<b>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">,</b><br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Kanit&size=25&duration=5000&pause=60000&color=36BCF7FF&&vCenter=true&lines=I'm++𝕬+𝖘+𝖍+𝖊+𝖗++𝕱+𝖗+𝖆+𝖟" alt="Typing Name"><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Kanit&size=25&duration=3500&pause=1000&color=36BCF7FF&center=true&vCenter=true&lines=Software+Engineer;Web+Developer;Quick+Learner" alt="Typing Role"><br><br>
+
+<a href="https://linkedin.com/in/asherfraz" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="25" alt="LinkedIn" />
+</a>
+<a href="mailto:asherfraz@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" height="25" alt="Gmail" />
+</a>
+<a href="https://linktr.ee/asherfraz" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="35" height="25" alt="Linktree" />
+</a>
+<a href="https://wa.me/+923149205220" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="35" height="25" alt="WhatsApp" />
+</a>
+
+</td>
+
+<td align="center" width="40%">
+  <img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" width="260px" alt="Coding gif">
+</td>
+  </tr>
+</table>
+
+
+<!--
 <div style="display:flex">
   
   <div style="width:60%;font-size:25px;font-weight:bold;">
@@ -15,9 +47,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Kanit&size=25&duration=3500&pause=1000&color=36BCF7FF&center=true&vCenter=true&lines=Software+Engineer;Web+Developer;Quick+Learner" alt="Typing SVG">
   </a>
   
-  <!-- Visitors Count -->
-<!-- <img align="left" src="https://profile-counter.glitch.me/asherfraz/count.svg?" width="150px" />
-<br/> -->
+  <!-- Visitors Count ->
+<img align="left" src="https://profile-counter.glitch.me/asherfraz/count.svg?" width="150px" />
+<br/> 
 
 <div align="left" style="display:inline">
   <a href="https://linkedin.com/in/asherfraz" target="_blank">
@@ -38,6 +70,7 @@
 <img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" width="260px" alt="Coding gif" style="border-radius:10px;display:40%">
 
 </div>
+-->
 
 ---
 
