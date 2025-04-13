@@ -3,9 +3,10 @@
   style="border-radius:5px" />
 </p>
 
-<table>
+
+<table >
   <tr>
-    <td width="60%" valign="top">
+    <td width="70%" valign="center">
 
 <b>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">,</b><br><br>
 
@@ -28,7 +29,7 @@
 
 </td>
 
-<td align="center" width="40%">
+<td align="right"  width="30%" >
   <img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" width="260px" alt="Coding gif">
 </td>
   </tr>
