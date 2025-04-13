@@ -4,7 +4,7 @@
 </p>
 
 
-<div style="display:flex">
+<div style="display:flex; width:100%">
   <div style="padding-left:10px;
   font-size:25px;
   font-weight:bold;">
