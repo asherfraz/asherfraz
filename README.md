@@ -6,9 +6,10 @@
 
   <img align="right" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" width="300px" alt="Coding gif" >
 
-<b>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">,</b>
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=Kanit&size=25&duration=5000&pause=60000&color=36BCF7FF&&vCenter=true&lines=I'm++𝕬+𝖘+𝖍+𝖊+𝖗++𝕱+𝖗+𝖆+𝖟" alt="Typing Name"><br>
+<b>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">,
+<h2 style="font-family: monospace" ><b>𝕬𝖘𝖍𝖊𝖗 𝕱𝖗𝖆𝖟</b></h2><br>
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Kanit&size=25&duration=5000&pause=60000&color=36BCF7FF&&vCenter=true&lines=I'm++𝕬+𝖘+𝖍+𝖊+𝖗++𝕱+𝖗+𝖆+𝖟" alt="Typing Name"> -->
+
 <img src="https://readme-typing-svg.demolab.com?font=Kanit&size=25&duration=3500&pause=1000&color=36BCF7FF&center=true&vCenter=true&lines=Software+Engineer;Web+Developer;Quick+Learner" alt="Typing Role"><br><br>
 
 <a href="https://linkedin.com/in/asherfraz" target="_blank">
